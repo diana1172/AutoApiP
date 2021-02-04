@@ -10,7 +10,7 @@ on:
   #  branches: 
   #    - master
   schedule:
-    - cron: '12 */6 * * 1-5'
+    - cron: '31 */4 * * 0-6'
   watch:
     types: [started]
    
